@@ -1,4 +1,4 @@
-// Program makes Sphero continually move left from callibration
+// Program makes Sphero continually move right from callibration
 // point at top speed
 async function startProgram() {
 	while (true) {

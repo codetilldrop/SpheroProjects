@@ -11,4 +11,4 @@ into the online editor. If you don't have an account, you will need to register 
 ## Program descriptions
 ### constant_roll.js
 
-A Program makes Sphero continually move left from callibration point at top speed
+A Program makes Sphero continually move right from callibration point at top speed
